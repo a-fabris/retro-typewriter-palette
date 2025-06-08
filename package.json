@@ -1,0 +1,35 @@
+{
+  "name": "retro-typewriter-palette",
+  "version": "1.0.0",
+  "description": "A retro-inspired color palette drawn from 1960s typewriters designed for web. Written in TypeScript and compatible with TailwindCSS and component libraries.",
+  "main": "dist/colors.js",
+  "types": "dist/colors.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "color-palette",
+    "tailwindcss",
+    "design",
+    "retro",
+    "typewriter"
+  ],
+  "author": "Andrea Fabris <afabris86@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/your-username/retro-typewriter-palette.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/retro-typewriter-palette/issues"
+  },
+  "homepage": "https://github.com/your-username/retro-typewriter-palette#readme",
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  }
+}
