@@ -20,12 +20,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/your-username/retro-typewriter-palette.git"
+    "url": "git+https://github.com/a-fabris/retro-typewriter-palette.git"
   },
   "bugs": {
-    "url": "https://github.com/your-username/retro-typewriter-palette/issues"
+    "url": "https://github.com/a-fabris/retro-typewriter-palette/issues"
   },
-  "homepage": "https://github.com/your-username/retro-typewriter-palette#readme",
+  "homepage": "https://github.com/a-fabris/retro-typewriter-palette#readme",
   "publishConfig": {
     "access": "public"
   },
